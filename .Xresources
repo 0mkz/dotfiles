@@ -1,0 +1,45 @@
+Xcursor.theme: Qogir
+Xcursor.size: 16
+
+! st
+st.foreground:   #ffffff
+st.background:   #191919
+st.cursorColor:  #fbfffc
+
+st.color0:       #191919
+st.color8:       #464646
+
+st.color1:       #c83732
+st.color9:       #c83232
+
+st.color2:       #2a8214
+st.color10:      #2a8214
+
+st.color3:       #f0b033
+st.color11:      #f0b033
+
+st.color4:       #0074c9
+st.color12:      #0074c9
+
+st.color5:       #aa28d2
+st.color13:      #aa28d2
+
+st.color6:       #39beac
+st.color14:      #39beac
+
+st.color7:       #dadada
+st.color15:      #dadada
+
+! dwm
+
+dwm.normbordercolor: 
+
+dwm.normbgcolor: 
+
+dwm.normfgcolor: 
+
+dwm.selbordercolor: 
+
+dwm.selbgcolor: #147370
+
+dwm.selfgcolor:

@@ -1,0 +1,22 @@
+#!/bin/sh
+
+#QOL
+alias c="clear"
+alias .="cd .."
+alias mv="mv -i"
+alias rm="rm -i"
+alias cl="clear && l"
+
+#ls
+alias ls="ls --color=auto"
+alias l="ls"
+alias ll="l -lA"
+alias la="l -A"
+
+#grep
+alias grep="grep --color=auto"
+
+#skróty do plików
+alias aliasrc="vim $HOME/.config/aliasrc"
+alias suck="cd $HOME/.config/suckless && l && xdotool type cd"
+alias dmci="doas make clean install"
