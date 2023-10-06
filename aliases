@@ -1,3 +1,5 @@
+alias ls="ls --color"
 alias l="ls -a"
 alias ll="ls -la"
+
 alias c="clear"
