@@ -14,5 +14,5 @@ zstyle :compinstall filename '/home/keri/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
-source ~/aliases
+source ~/.config/aliases
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh 2>/dev/null
