@@ -4,6 +4,7 @@ HISTSIZE=1000
 SAVEHIST=1000
 setopt autocd
 unsetopt beep notify
+unsetopt autocd
 autoload -U colors && colors
 PS1='%~ %F{cyan}λ>%F{reset_color} '
 #End of lines configured by zsh-newuser-install
