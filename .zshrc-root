@@ -2,7 +2,6 @@
 HISTFILE=~/.histfile
 HISTSIZE=1000
 SAVEHIST=1000
-setopt autocd
 unsetopt beep notify
 autoload -U colors && colors
 PS1='%~ %F{red}Ω>%F{reset_color} '
